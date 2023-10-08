@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Web Devlopment**
 
-- 🌱 I’m currently learning **Frontend Technologies and Python, DSA**
+- 🌱 I’m currently learning **Frontend Technologies,Python, and DSA**
 
 - 👯 I’m looking to collaborate on **Frontend Web Devloper**
 
