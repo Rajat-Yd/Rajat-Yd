@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajat Yadav</h1>
 <h3 align="center">I am a Tech Enthusiast From India</h3>
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-yd&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-yd" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rajat-yd&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-yd" />
+</p>
 
 - 🔭 I’m currently working on **Frontend Web Devlopment & AI/ML  **
 
@@ -53,9 +55,6 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinecone/pinecone-original.svg" alt="pinecone" width="40" height="40"/>
   </a>
 </p>
 
