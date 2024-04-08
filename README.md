@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=rajat-yd&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-yd" />
 </p>
 
-- 🔭 I’m currently working on **Frontend Web Devlopment & AI/ML  **
+- 🔭 I’m currently working on ** Deep Learning  **
 
-- 🌱 I’m currently learning **Frontend Technologies,Machine Learning and Deep learning ,Python, and DSA**
+- 🌱 I’m currently learning **Machine Learning and Deep learning ,Python, and DSA**
 
-- 👯 I’m looking to collaborate on **Frontend Web Devloper and Machine Learning based project**
+- 👯 I’m looking to collaborate on **Frontend Web Projects and Machine Learning based project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajat-Yd](https://github.com/Rajat-Yd)
 
