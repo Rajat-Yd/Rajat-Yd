@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep learning ,Python, and DSA**
 
-- 👯 I’m looking to collaborate on **Frontend Web Projects and Machine Learning based project**
+- 👯 I’m looking to collaborate on **Frontend Web Projects and Deep Learning based project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajat-Yd](https://github.com/Rajat-Yd)
 
