@@ -16,7 +16,6 @@
 - 💬 Ask me about **Frontend, AI/ML , Python and DSA **
 
 - 📫 How to reach me **rajat0911q@gmail.com**
-- conatact me <a href = rajat0911q@gmail.com>Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
