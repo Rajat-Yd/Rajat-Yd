@@ -13,7 +13,7 @@
 
 - 👨‍💻 Some of my fine Frontend Projects are available at [https://github.com/Rajat-Yd](https://github.com/Rajat-Yd)
 
-- 💬 Ask me about **Frontend, AI/ML , Python and DSA **
+- 💬 Ask me about **Frontend, AI/DL , Python and DSA **
 
 - 📫 How to reach me **rajat0911q@gmail.com**
 
