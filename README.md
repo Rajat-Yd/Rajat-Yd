@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on ** Deep Learning  **
 
-- 🌱 I’m currently learning **Deep learning and Python**
+- 🌱 I’m currently learning ** Deep learning and Python  **
 
-- 👯 I’m looking to collaborate on **Frontend Web Projects and Deep Learning based project**
+- 👯 I’m looking to collaborate on ** Frontend Web Projects and Deep Learning based project **
 
 - 👨‍💻 Some of my fine Frontend Projects are available at [https://github.com/Rajat-Yd](https://github.com/Rajat-Yd)
 
