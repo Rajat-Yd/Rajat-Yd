@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rajat-yd&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-yd" />
 </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **My Tech skills and Communication skills**
 
 - 🌱 I’m currently learning **Deep learning and Python**
 
