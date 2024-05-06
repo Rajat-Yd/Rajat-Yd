@@ -11,7 +11,8 @@
 
 - 👯 I’m looking to collaborate on **Frontend Web Projects and Deep Learning based project**
 
-- 👨‍💻 Some of my fine Frontend Projects are available at [https://github.com/Rajat-Yd](https://github.com/Rajat-Yd)
+- 👨‍💻 Some of my fine Frontend Projects are available
+<a href = https://all-projects005.netlify.app/>Here</h>
 
 - 💬 Ask me about **Frontend, AI Deep learning and, Python**
 
