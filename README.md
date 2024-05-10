@@ -14,7 +14,7 @@
 - 👨‍💻 Some of my fine Frontend Projects are available
 <a href = https://all-projects005.netlify.app/>👉 Here 👈</h>
 
-- 💬 Ask me about **Fronte, AI, Deep learning and, Python**
+- 💬 Ask me about **Frontend, AI, Deep learning and, Python**
 
 - 📫 How to reach me **rajat0911q@gmail.com**
 
