@@ -11,8 +11,8 @@
 
 - 👯 I’m looking to collaborate on **Frontend Web Projects and Deep Learning based project**
 
-- 👨‍💻 Some of my Frontend Projects are available
-<a href = https://all-projects005.netlify.app/>👉 Here 👈</h>
+- 👨‍💻 Know More about me
+<a href = https://www.self.so/rj27>👉 Here 👈</h>
 
 - 💬 Ask me about **Frontend, AI/ML, Deep learning and, Python**
 
